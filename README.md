@@ -1,5 +1,3 @@
----
-
 # Hola, soy Ariel Leyva
 
 Desarrollador full‑stack con obsesión por **automatizar flujos de trabajo**, crear softwarey herramientas **transparentes, reversibles y mantenibles**, y mejorar la experiencia de desarrollo en ecosistemas como **PHP/Composer**, **Node.js**, **Go** y **Vue**.  
