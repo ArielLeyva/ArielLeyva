@@ -18,7 +18,7 @@ También disfruto trabajar en proyectos open source reales: desde **plugins que 
 
 ---
 
-## 🌱 Actualmente aprendiendo
+## Actualmente aprendiendo
 - Arquitectura de **CLI tools** más robustas en Node.js y Go.  
 - Profundizando en **Composer internals** y empaquetado avanzado con PHAR.  
 - Desarrollo de **extensiones para VSCode**.  
@@ -26,7 +26,7 @@ También disfruto trabajar en proyectos open source reales: desde **plugins que 
 
 ---
 
-## 💼 Proyectos destacados
+## Proyectos destacados
 - **Plugin de Composer para empaquetado PHAR** — Automatiza vendor packaging, exclusiones PHAR-unsafe, diagnósticos y workflows reversibles.  
 - **CLI y Vite Plugin para reducción de icon fonts** — Herramienta Node.js para optimizar sets de íconos sin romper builds.  
 - **Contribuciones a Filebrowser** — Fixes, features y documentación en un proyecto Go de alto impacto.  
@@ -34,7 +34,7 @@ También disfruto trabajar en proyectos open source reales: desde **plugins que 
 
 ---
 
-## 🤝 Busco colaborar en
+## Busco colaborar en
 - Herramientas open‑source que mejoren la productividad de desarrolladores.  
 - Proyectos de desarrollo de software en creación.
 - Proyectos que necesiten **arquitectura limpia**, **DX**, o **diseño gráfico avanzado**.  
@@ -42,13 +42,13 @@ También disfruto trabajar en proyectos open source reales: desde **plugins que 
 
 ---
 
-## 📫 Cómo contactarme
+## Cómo contactarme
 - **GitHub:** [github.com/ArielLeyva](https://github.com/ArielLeyva)  
 - **Correo:** contact@msomnium.com  
 
 ---
 
-## 🧰 Stack principal
+## Stack principal
 - **Lenguajes:** PHP, JavaScript, Go, Dart, Java, Kotlin
 - **Frontend:** Vue, React, Tailwind, Astro
 - **Backend:** Laravel, Node.js, Go  
@@ -57,9 +57,3 @@ También disfruto trabajar en proyectos open source reales: desde **plugins que 
 
 ---
 
-## 📊 Estadísticas
-```md
-![Ariel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArielLeyva&show_icons=true&theme=tokyonight)
-```
-
----
